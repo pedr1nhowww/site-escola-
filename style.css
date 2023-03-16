@@ -1,2 +1,23 @@
-header{background-color: hsl(0, 0%, 0%);color: whitesmoke;}
-.cabecalho.imagem{width: 14%;}
+*{
+    margin: 0;
+padding: 0;
+}
+.cabecalho {background-color: rgb(255, 1, 1);
+color: bisque;
+display: flex;
+justify-content: space-around;
+padding: 24px 0;
+}
+ .cabecalho-imagem{
+    width: 15%;
+    height: 5%;}
+ .cabecalho-lista-item{
+display:ruby-base-container;
+margin: 3 15px;
+padding: 24px 0;
+font-size: 24px;}
+h1
+ {display: inline-block;
+    margin: 0 16px;
+    padding: 120px 0;
+    font-size: 35px;}
