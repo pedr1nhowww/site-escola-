@@ -2,8 +2,8 @@
     margin: 0;
 padding: 0;
 }
-.cabecalho {background-color: rgb(255, 1, 1);
-color: bisque;
+.cabecalho {background-color: rgb(255, 0, 0);
+color: #ffffff;
 display: flex;
 justify-content: space-around;
 padding: 24px 0;
@@ -20,4 +20,21 @@ h1
  {display: inline-block;
     margin: 0 16px;
     padding: 120px 0;
-    font-size: 35px;}
+    font-size: 35px;
+ }
+    .escola-imagem{
+      width: 15%;
+    }
+ .escola{
+      background-image: linear-gradient(rgb(255, 0, 0), rgb(0, 0, 0));
+      color: white;
+      display: flex;
+   justify-content:center;
+   align-items: center;
+   padding: 24px 0;
+   
+ 
+   }
+
+   
+    
