@@ -2,7 +2,7 @@
     margin: 0;
 padding: 0;
 }
-.cabecalho {background-color: rgb(255, 0, 0);
+.cabecalho {background-color: rgb(224, 0, 0);
 color: #ffffff;
 display: flex;
 justify-content: space-around;
@@ -21,9 +21,18 @@ h1
     margin: 0 16px;
     padding: 120px 0;
     font-size: 35px;
+
+ }
+ .escola-titulo 
+ {padding: 24px; 0}
+ p
+ {
+   margin:7px 30px ;
+   padding:14px 20px ;
+   font-size: 26px;
  }
     .escola-imagem{
-      width: 15%;
+      width: 30%;
     }
  .escola{
       background-image: linear-gradient(rgb(255, 0, 0), rgb(0, 0, 0));
@@ -31,9 +40,12 @@ h1
       display: flex;
    justify-content:center;
    align-items: center;
-   padding: 24px 0;
-   
- 
+   padding: 24px 0;}
+
+   .escola-conteudo
+   {width: 56%;}
+   .aluno-um {
+      width: 30%;
    }
 
    
