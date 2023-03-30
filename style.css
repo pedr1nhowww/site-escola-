@@ -23,8 +23,8 @@ h1
     font-size: 35px;
 
  }
- .escola-titulo 
- {padding: 24px; 0}
+ .escola-titulo{
+   padding: 24px; 0px; }
  p
  {
    margin:7px 30px ;
@@ -35,8 +35,8 @@ h1
       width: 30%;
     }
  .escola{
-      background-image: linear-gradient(rgb(255, 0, 0), rgb(0, 0, 0));
-      color: white;
+      background-image: linear-gradient(rgb(255, 0, 0), rgb(255, 255, 255));
+      color: rgb(0, 0, 0);
       display: flex;
    justify-content:center;
    align-items: center;
@@ -47,6 +47,8 @@ h1
    .aluno-um {
       width: 30%;
    }
-
-   
-    
+   .estudante-icone{
+      width: 124px;
+   }
+.estudante-div
+{text-align: center;}
