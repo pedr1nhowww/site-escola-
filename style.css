@@ -52,3 +52,7 @@ h1
    }
 .estudante-div
 {text-align: center;}
+
+.estudante-titulo{
+   display: grid;
+}
