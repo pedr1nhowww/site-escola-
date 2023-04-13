@@ -56,3 +56,9 @@ h1
 .estudante-titulo{
    display: grid;
 }
+
+.estudante-todos{
+background-color: aliceblue;
+display: grid;
+grid-template-columns: 25% 25% 25% 25%;
+}
